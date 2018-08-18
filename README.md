@@ -44,10 +44,13 @@ A curated list of awesome software of MacOS.
 * [Xcode](https://developer.apple.com/xcode/) - Xcode 10 includes everything you need to create amazing apps for all Apple platforms.
 * [LiteIDE](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 * [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for MacOS, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub.
+* [Android Studio](https://developer.android.com/studio/) - The official IDE for Android, based on Intellij IDEA.
+* [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
 
 ## Markdown
 * [Typora](https://typora.io/) - A markdown editor, markdown reader.
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
+* [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
 
 ## SSH
 * [iTerm2](https://www.sublimetext.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
@@ -109,7 +112,6 @@ A curated list of awesome software of MacOS.
 * [VMware Fusion](https://www.vmware.com/products/fusion.html) - Powerfully Simple Virtual Machine for Mac.
 * [Parallels Desktop](https://www.parallels.com/products/desktop/) - Run Windows on Your Mac.
 
-
 ## Manual
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 200+ API documentation sets.
 
@@ -126,7 +128,7 @@ A curated list of awesome software of MacOS.
 
 ## Productivity
 * [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - Alfred is an award-winning productivity application for OS X. 
-* [Writer Pro](https://ia.net/writer) - “iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
 
 ## Window Management
 * [Moom](https://manytricks.com/moom/) - Moom makes window management as easy as clicking a mouse button.
