@@ -67,6 +67,8 @@ A curated list of awesome software of MacOS.
 ## DB Management
  * [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
+ * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
+ * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management, Open Source, built using Electron and Angular JS.
 
 ## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
@@ -89,6 +91,8 @@ A curated list of awesome software of MacOS.
 ## Design
 * [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
 * [Photoshop](https://www.photoshop.com/) - Adobe Photoshop software is the industry standard in digital imaging and is used worldwide for design, photography, video editing and more.
+* [FontForge](http://fontforge.github.io/) - Free, open-source font editor.
+* [Axure RP 8](http://www.axure.com/) - Prototypes, specifications and diagrams in one tool.
 
 ## UML
 * [XMind](https://www.xmind.net/) - XMind is designed to generate ideas, inspire creativity, make your thoughts from disorder to order, bring you efficiency both in work and life.
@@ -112,6 +116,7 @@ A curated list of awesome software of MacOS.
 * [Parallels Desktop](https://www.parallels.com/products/desktop/) - Run Windows on Your Mac.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building and distributing development environments.
 * [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
+* [Veertu](https://veertu.com/) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac.
 
 ## Manual
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 200+ API documentation sets.
@@ -150,4 +155,5 @@ A curated list of awesome software of MacOS.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
 * [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images.
 
