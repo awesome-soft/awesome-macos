@@ -1,6 +1,6 @@
 # Awesome Soft of Macos
 
-A curated list of awesome software of Macos.
+A curated list of awesome software of MacOS.
 
 ### Toc
 - [Awesome Soft of Macos](#awesome-soft-of-macos)
@@ -57,6 +57,7 @@ A curated list of awesome software of Macos.
 
 ## DB Management
  * [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+ * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
 
 ## Proxy
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
