@@ -7,7 +7,7 @@ A curated list of awesome software of MacOS.
         - [Toc](#toc)
     - [IDE](#ide)
     - [Markdown](#markdown)
-    - [SSH](#ssh)
+    - [Terminal](#terminal)
     - [Note](#note)
     - [ToDo](#todo)
     - [DB Management](#db-management)
@@ -51,7 +51,7 @@ A curated list of awesome software of MacOS.
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
 * [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
 
-## SSH
+## Terminal
 * [iTerm2](https://www.sublimetext.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Provides rock-solid terminal emulation for computing professionals, raising productivity with advanced session management.
 * [SSH Shell](https://codinn.com/products/ssh-shell/) - The most convenient SSH client, easily interact with your remote host using integrated terminal.
