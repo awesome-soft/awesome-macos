@@ -69,6 +69,7 @@ A curated list of awesome software of MacOS.
 ## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. 
+* [Paw](https://paw.cloud/) - Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
 
 ## Office
 * [Microsoft Excel](https://products.office.com/en-us/excel)
@@ -91,6 +92,7 @@ A curated list of awesome software of MacOS.
 * [XMind](https://www.xmind.net/) - XMind is designed to generate ideas, inspire creativity, make your thoughts from disorder to order, bring you efficiency both in work and life.
 * [Gliffy Diagrams](https://www.gliffy.com/) - Gliffy online tools power visual communication and collaboration.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
+* [StarUML](http://staruml.io/) - Powerful UML app.
 
 ## Email
 * [Airmail](http://airmailapp.com/) - Fast email client. For both Mac OS and iOS.
@@ -121,7 +123,6 @@ A curated list of awesome software of MacOS.
   
 ## Api Managemant
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
-* [Paw](https://paw.cloud/) - Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
 
 ## Productivity
 * [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - Alfred is an award-winning productivity application for OS X. 
@@ -132,6 +133,7 @@ A curated list of awesome software of MacOS.
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
+* [Authy](https://authy.com/) - Two-factor authentication token manager that backs up and syncs across your devices.
 
 ## Proxy & VPN
 * [Tunnelblick](https://tunnelblick.net/) -  Tunnelblick is a free, open source graphic user interface for OpenVPN® on OS X and macOS.
