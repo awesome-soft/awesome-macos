@@ -1,9 +1,9 @@
-# Awesome Soft of Macos
+# Awesome Soft for Macos
 
-A curated list of awesome software of MacOS.
+A curated list of awesome software for MacOS.
 
 ### Toc
-- [Awesome Soft of Macos](#awesome-soft-of-macos)
+- [Awesome Soft for Macos](#awesome-soft-for-macos)
         - [Toc](#toc)
     - [IDE](#ide)
     - [Markdown](#markdown)
