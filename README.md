@@ -27,7 +27,6 @@ A curated list of awesome software of MacOS.
     - [Window Management](#window-management)
     - [Security](#security)
     - [Proxy & VPN](#proxy--vpn)
-    - [Docker](#docker)
     - [Others](#others)
 
 
@@ -112,6 +111,7 @@ A curated list of awesome software of MacOS.
 * [VMware Fusion](https://www.vmware.com/products/fusion.html) - Powerfully Simple Virtual Machine for Mac.
 * [Parallels Desktop](https://www.parallels.com/products/desktop/) - Run Windows on Your Mac.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building and distributing development environments.
+* [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
 
 ## Manual
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 200+ API documentation sets.
@@ -143,9 +143,6 @@ A curated list of awesome software of MacOS.
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
-  
-## Docker
-* [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
 
 ## Others
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
