@@ -9,23 +9,26 @@ A curated list of awesome software of MacOS.
     - [Markdown](#markdown)
     - [SSH](#ssh)
     - [Note](#note)
+    - [ToDo](#todo)
     - [DB Management](#db-management)
-    - [Proxy](#proxy)
+    - [Network Analysis](#network-analysis)
     - [Office](#office)
     - [Browser](#browser)
     - [Design](#design)
     - [UML](#uml)
     - [Email](#email)
+    - [FTP](#ftp)
     - [Block Chain](#block-chain)
     - [Virtual Machine](#virtual-machine)
     - [Manual](#manual)
     - [VCS](#vcs)
     - [Api Managemant](#api-managemant)
-    - [Efficiency](#efficiency)
-    - [Safe](#safe)
-    - [VPN](#vpn)
+    - [Productivity](#productivity)
+    - [Window Management](#window-management)
+    - [Security](#security)
+    - [Proxy & VPN](#proxy--vpn)
     - [Docker](#docker)
-    - [Other](#other)
+    - [Others](#others)
 
 
 ## IDE
@@ -55,11 +58,15 @@ A curated list of awesome software of MacOS.
 * [Evernote](https://evernote.com/) - Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.
 * [YouDao Cloud Note](https://note.youdao.com/) - A great note-taking app.
 
+## ToDo
+* [2Do](http://www.2doapp.com/) - Nice todo app.
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - OmniFocus for Mac is a great app for task management.
+
 ## DB Management
  * [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
 
-## Proxy
+## Network Analysis
 * [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer. 
 * [Charles](https://www.charlesproxy.com/) - Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. 
 
@@ -74,6 +81,7 @@ A curated list of awesome software of MacOS.
 ## Browser
 * [Chrome](https://www.google.com/chrome/) - One fast, simple and secure browser for all your devices.
 * [Firefox](https://www.mozilla.org/en-US/firefox/) - A free and open-source web browser developed by Mozilla.
+* [Chromium](https://www.chromium.org) - Open-source, free web browser project by Google, to provide the source code for Google Chrome.
 
 ## Design
 * [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
@@ -85,7 +93,11 @@ A curated list of awesome software of MacOS.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
 
 ## Email
+* [Airmail](http://airmailapp.com/) - Fast email client. For both Mac OS and iOS.
 * [Foxmail](https://www.foxmail.com/mac/en/) - Foxmail is a freeware e-mail client developed by Tencent. 
+
+## FTP
+* [FileZilla](https://filezilla-project.org/) - The free FTP solution.
 
 ## Block Chain
 * [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
@@ -111,23 +123,26 @@ A curated list of awesome software of MacOS.
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
 * [Paw](https://paw.cloud/) - Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.
 
-## Efficiency
+## Productivity
 * [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - Alfred is an award-winning productivity application for OS X. 
-* [Moom](https://manytricks.com/moom/) - Moom makes window management as easy as clicking a mouse button.
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - OmniFocus for Mac is a great app for task management.
 * [Writer Pro](https://ia.net/writer) - “iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
 
-## Safe
+## Window Management
+* [Moom](https://manytricks.com/moom/) - Moom makes window management as easy as clicking a mouse button.
+
+## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
 
-## VPN
+## Proxy & VPN
 * [Tunnelblick](https://tunnelblick.net/) -  Tunnelblick is a free, open source graphic user interface for OpenVPN® on OS X and macOS.
+* [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+* [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
   
 ## Docker
 * [Docker](https://www.docker.com/products/docker-desktop) - Docker Desktop is the easiest way to run Docker.
 
-## Other
+## Others
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monitor for your computer.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
