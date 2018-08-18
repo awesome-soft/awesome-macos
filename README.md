@@ -19,7 +19,7 @@ A curated list of awesome software of MacOS.
     - [Email](#email)
     - [FTP](#ftp)
     - [Block Chain](#block-chain)
-    - [Virtual Machine](#virtual-machine)
+    - [Virtualization](#virtualization)
     - [Manual](#manual)
     - [VCS](#vcs)
     - [Api Managemant](#api-managemant)
@@ -107,10 +107,11 @@ A curated list of awesome software of MacOS.
 ## Block Chain
 * [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
 
-## Virtual Machine
+## Virtualization
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 * [VMware Fusion](https://www.vmware.com/products/fusion.html) - Powerfully Simple Virtual Machine for Mac.
 * [Parallels Desktop](https://www.parallels.com/products/desktop/) - Run Windows on Your Mac.
+* [Vagrant](https://www.vagrantup.com/) - Tool for building and distributing development environments.
 
 ## Manual
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 200+ API documentation sets.
@@ -151,4 +152,5 @@ A curated list of awesome software of MacOS.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monitor for your computer.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
+* [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
 
