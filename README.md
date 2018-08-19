@@ -19,7 +19,7 @@ A curated list of awesome software for macOS.
     - [Email](#email)
     - [FTP](#ftp)
     - [Zip](#zip)
-    - [Block Chain](#block-chain)
+    - [Blockchain](#blockchain)
     - [Virtualization](#virtualization)
     - [Manual](#manual)
     - [VCS](#vcs)
@@ -111,7 +111,7 @@ A curated list of awesome software for macOS.
 ## Zip
 * [RAR Extractor Lite](https://rar-extractor-free.en.softonic.com/mac?ex=CAT-801.0) - RAR Extractor Lite is a specialized application program which aims at Rar, Zip, Tar, 7-zip, Gzip, Bzip2 files.
 
-## Block Chain
+## Blockchain
 * [Ethereum Wallet](https://www.ethereum.org/) - The Ethereum Wallet is a gateway to decentralized applications on the Ethereum blockchain.
 
 ## Virtualization
