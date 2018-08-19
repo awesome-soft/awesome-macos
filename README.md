@@ -36,7 +36,7 @@ A curated list of awesome software for macOS.
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a lightweight but powerful source code editor.
 * [Eclipse](https://www.eclipse.org/) - Eclipse is a platform that has been designed from the ground up for building integrated web and application development tooling.
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers by JetBrains.
-* [PhpStorm]() - Lightning-Smart IDE for PHP Programming by JetBrains. 
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-Smart IDE for PHP Programming by JetBrains. 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE for Professional Developers by JetBrains.
 * [GoLand](https://www.jetbrains.com/go/) - A Clever IDE to Go by JetBrains.
 * [CLion](https://www.jetbrains.com/clion/) - A Cross-Platform IDE for C and C++ by JetBrains.
