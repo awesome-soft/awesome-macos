@@ -83,6 +83,7 @@ A curated list of awesome software for macOS.
 * [Pages](https://www.apple.com/pages/)
 * [Numbers](https://www.apple.com/numbers/)
 * [Keynote](https://www.apple.com/keynote/)
+* [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
 
 ## Browser
 * [Chrome](https://www.google.com/chrome/) - One fast, simple and secure browser for all your devices.
