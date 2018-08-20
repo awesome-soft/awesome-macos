@@ -5,7 +5,7 @@ A curated list of awesome software for macOS.
 ### Toc
 - [ Awesome Soft for macOS](#%EF%A3%BF-awesome-soft-for-macos)
         - [Toc](#toc)
-    - [IDE](#ide)
+    - [IDE & Editor](#ide--editor)
     - [Markdown](#markdown)
     - [Terminal](#terminal)
     - [Note](#note)
@@ -31,7 +31,7 @@ A curated list of awesome software for macOS.
     - [Others](#others)
 
 
-## IDE
+## IDE & Editor
 * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a lightweight but powerful source code editor.
 * [Eclipse](https://www.eclipse.org/) - Eclipse is a platform that has been designed from the ground up for building integrated web and application development tooling.
@@ -156,6 +156,7 @@ A curated list of awesome software for macOS.
 
 ## Others
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+* [htop](https://hisham.hm/htop/) - This is htop, an interactive process viewer for Unix systems.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monitor for your computer.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
