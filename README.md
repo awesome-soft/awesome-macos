@@ -129,6 +129,7 @@ A curated list of awesome software for macOS.
 * [Cornerstone](https://cornerstone.assembla.com/) -Mac Subversion Client (SVN).
 * [Tower](https://www.git-tower.com/mac) - Git client for Mac.
 * [Gitlab](https://about.gitlab.com/) - GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
+* [Gogs](https://gogs.io/) - A painless self-hosted Git service.
   
 ## Api Managemant
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple.
