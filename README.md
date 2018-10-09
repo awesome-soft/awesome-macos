@@ -21,7 +21,7 @@ A curated list of awesome software for macOS.
     - [Zip](#zip)
     - [Virtualization](#virtualization)
     - [Manual](#manual)
-    - [VCS](#vcs)
+    - [SCM](#scm)
     - [Api Managemant](#api-managemant)
     - [Productivity](#productivity)
     - [Window Management](#window-management)
@@ -122,7 +122,7 @@ A curated list of awesome software for macOS.
 ## Manual
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 200+ API documentation sets.
 
-## VCS
+## SCM
 * [Sourcetree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI.
 * [svnX](https://subversion.assembla.com/svn/svnx/html/Downloads.html) - A Subversion GUI client for OS X.
 * [Versions](https://versionsapp.com/) - Mac Subversion Client (SVN).
