@@ -82,7 +82,7 @@ A curated list of awesome software for macOS.
 * [Pages](https://www.apple.com/pages/)
 * [Numbers](https://www.apple.com/numbers/)
 * [Keynote](https://www.apple.com/keynote/)
-* [WPS](https://www.wps.cn/product/wpsmac/)
+* [WPS](https://www.wps.cn/product/wpsmac/) - The perfect free office software.
 * [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
 
 ## Browser
