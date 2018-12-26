@@ -101,6 +101,7 @@ A curated list of awesome software for macOS.
 * [Gliffy Diagrams](https://www.gliffy.com/) - Gliffy online tools power visual communication and collaboration.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
 * [StarUML](http://staruml.io/) - Powerful UML app.
+* [Simplemind lite](https://simplemind.eu/) - SimpleMind is designed to synchronize your Mind Maps across platforms.
 
 ## Email
 * [Airmail](http://airmailapp.com/) - Fast email client. For both Mac OS and iOS.
