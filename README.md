@@ -66,6 +66,7 @@ A curated list of awesome software for macOS.
 
 ## DB Management
  * [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+ * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is the "sequel" to longtime macOS tool Sequel Pro. Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
  * [Navicat](https://www.navicat.com/) - Powerful database management & design tool for Win, macOS & Linux. With intuitive GUI, user manages MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle & SQLite DB easily.
  * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
  * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management, Open Source, built using Electron and Angular JS.
