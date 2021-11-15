@@ -102,7 +102,7 @@ A curated list of awesome software for macOS.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
 * [StarUML](http://staruml.io/) - Powerful UML app.
 * [Simplemind lite](https://simplemind.eu/) - SimpleMind is designed to synchronize your Mind Maps across platforms.
-* [Draw.io](https://draw.io/)diagrams.net (formerly draw.io) is free online diagram software to create UML online.
+* [Draw.io](https://draw.io/) - diagrams.net (formerly draw.io) is free online diagram software to create UML online.
 * [drawio-desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron. draw.io is the old name for diagrams.net, we just don't want the hassle of changing all the binary's names.
 
 ## Email
