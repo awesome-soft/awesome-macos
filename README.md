@@ -99,10 +99,11 @@ A curated list of awesome software for macOS.
 
 ## UML
 * [XMind](https://www.xmind.net/) - XMind is designed to generate ideas, inspire creativity, make your thoughts from disorder to order, bring you efficiency both in work and life.
-* [Gliffy Diagrams](https://www.gliffy.com/) - Gliffy online tools power visual communication and collaboration.
 * [Process On](https://www.processon.com/) - Free online mapping, real-time collaboration.
 * [StarUML](http://staruml.io/) - Powerful UML app.
 * [Simplemind lite](https://simplemind.eu/) - SimpleMind is designed to synchronize your Mind Maps across platforms.
+* [Draw.io](https://draw.io/)diagrams.net (formerly draw.io) is free online diagram software to create UML online.
+* [drawio-desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron. draw.io is the old name for diagrams.net, we just don't want the hassle of changing all the binary's names.
 
 ## Email
 * [Airmail](http://airmailapp.com/) - Fast email client. For both Mac OS and iOS.
