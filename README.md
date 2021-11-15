@@ -147,6 +147,7 @@ A curated list of awesome software for macOS.
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
 * [Authy](https://authy.com/) - Two-factor authentication token manager that backs up and syncs across your devices.
+* [KeePassX](https://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.
 
 ## Proxy & VPN
 * [Tunnelblick](https://tunnelblick.net/) -  Tunnelblick is a free, open source graphic user interface for OpenVPN® on OS X and macOS.
