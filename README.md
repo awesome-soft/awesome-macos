@@ -144,6 +144,7 @@ A curated list of awesome software for macOS.
 
 ## Window Management
 * [Moom](https://manytricks.com/moom/) - Moom makes window management as easy as clicking a mouse button.
+* [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to Mac apps — one key per app, no Cmd+Tab cycling. ($9.99)
 
 ## Security
 * [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet.
