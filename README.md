@@ -141,6 +141,8 @@ A curated list of awesome software for macOS.
 ## Productivity
 * [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - Alfred is an award-winning productivity application for OS X. 
 * [Writer Pro](https://ia.net/writer) - iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.
+* [Orkas](https://orkas.ai/?source=gh_awsoft) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ## Window Management
 * [Moom](https://manytricks.com/moom/) - Moom makes window management as easy as clicking a mouse button.
