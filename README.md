@@ -47,6 +47,7 @@ A curated list of awesome software for macOS.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks.
 
 ## Markdown
+* [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS Markdown viewer with diagram previews and basic text editing.
 * [Typora](https://typora.io/) - A markdown editor, markdown reader.
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
 * [MacDown](http://macdown.uranusjr.com/) - Markdown editor.
