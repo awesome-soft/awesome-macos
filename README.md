@@ -160,6 +160,7 @@ A curated list of awesome software for macOS.
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 * [htop](https://hisham.hm/htop/) - This is htop, an interactive process viewer for Unix systems.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monitor for your computer.
+* [MacClean](https://thulem.com/) - Native macOS disk cleaner for WeChat/QQ/WeCom caches, Xcode/AI caches, large files, and a visual Storage Map (freemium).
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
 * [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
 * [sshw](https://github.com/yinheli/sshw) - SSH client wrapper for automatic login.
