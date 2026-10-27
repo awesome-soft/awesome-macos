@@ -158,6 +158,7 @@ A curated list of awesome software for macOS.
 
 ## Others
 * [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+* [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
 * [htop](https://hisham.hm/htop/) - This is htop, an interactive process viewer for Unix systems.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monitor for your computer.
 * [Beyond Compare](https://www.scootersoftware.com/) - Beyond Compare is a data comparison utility. 
